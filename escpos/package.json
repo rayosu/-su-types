@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "surui"
+  },
+  "bugs": {
+    "url": "https://github.com/rayosu/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "So. Yui",
+      "url": "https://github.com/rayosu"
+    }
+  ],
+  "dependencies": {
+    "escpos": "2.4.11"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for escpos",
+  "homepage": "https://github.com/rayosu/DefinitelyTyped/blob/master/types/escpos/README.md",
+  "license": "ISC",
+  "main": "",
+  "name": "@su-types/escpos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayosu/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.2",
+  "types": "index",
+  "version": "2.4.11.1"
+}

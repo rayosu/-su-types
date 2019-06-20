@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "surui"
+  },
+  "bugs": {
+    "url": "https://github.com/rayosu/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "So. Yui",
+      "url": "https://github.com/rayosu"
+    }
+  ],
+  "dependencies": {
+    "fetch": "1.1.0"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for fetch",
+  "homepage": "https://github.com/rayosu/su-types/blob/master/types/fetch/README.md",
+  "license": "ISC",
+  "main": "",
+  "name": "@su-types/fetch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayosu/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.2",
+  "types": "index",
+  "version": "1.1.0"
+}
